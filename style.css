@@ -232,18 +232,6 @@ nav a.active {
     flex-shrink: 0;
 }
 
-.procedure-wrapper {
-    display: flex;
-    gap: 400px;
-    align-items: flex-start;
-}
-
-/* LEFT IMAGE */
-.procedure-image {
-    flex: 1;
-    position: sticky;
-    top: 120px;
-}
 
 .procedure-image img {
     width: 100%;
@@ -680,3 +668,4 @@ html {
         grid-template-columns: 1fr;
     }
 }
+
